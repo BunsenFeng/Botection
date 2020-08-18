@@ -1,1 +1,1 @@
-# Botection-social_media_bot_detection
+This repository is dedicated to conduct bot detection on Chinese social media Weibo exploiting both textual information and user metadata. This repository is also part of a college innovation training project. Work still under progress. The labelled Weibo datasets is available in /dataset, an overall illustration of the proposed model Botection and its performance analysis could be found in "Botection-Model_and_Performance.pdf". Contact {wind_binteng,wanherun,mrwangyou}@stu.xjtu.edu.cn for questions and info.
