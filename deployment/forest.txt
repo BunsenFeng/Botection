@@ -1,0 +1,7 @@
+def forest(feature):
+    print(feature)
+    feature = [feature]
+    with open("model.pkl", "rb") as f:
+        model = pickle.load(f)
+    result = model.predict(feature)
+    return result
